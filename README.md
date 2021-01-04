@@ -1,1 +1,2 @@
 # COVID-19-IN-NIGERIA-GHANA
+The COVID-19 pandemic disrupted our world in unimaginable ways. Its spread has led to loss of loved ones, livelihood, and worsened the raging mental health crisis. The cumulative count of confirmed cases by day and country was downloaded from the John Hopkins website. This analysis was carried out just as the lockdown was being relaxed in my state of residence: Delta, Nigeria. I restricted my analysis to the last 60 days from May 9.
